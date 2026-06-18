@@ -1,0 +1,6 @@
+public class game
+{
+    public static void main(String[] args) throws Exception {
+        Sudoku sudoku = new Sudoku();
+    }
+}
